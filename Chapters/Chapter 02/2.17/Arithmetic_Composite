@@ -42,14 +42,14 @@ class Arithmetic_Composite {
           if(num1>num2 && num1>num3)
                   System.out.println("The number 1 is greater than number 2 and 3");
 
-          else{
+        else{
               if(num2>num1 && num2 > num3) {
                     System.out.println("The number 2 is greater than number 1 and 3");
-        }else{
+        else{
              if(num3>num1 && num3 > num2){
             System.out.println("The number 3 is greater than number 1 and 3");
-         }
+             }
 	    }			
-	  }
-  }
+	 }
+   }
 }
