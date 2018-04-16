@@ -1,8 +1,9 @@
 /*
-* 	Filename :Major and Minor integers
+* 	Filename : Major_and_Minor_integers.java
 
 * 
-* 	Descrition : (2.24) 
+* 	Descrition : (2.24) Write a program that reads 5 numbers and says which is the largest and the smallest of them
+
 *	
 * 			
 *	
@@ -20,7 +21,7 @@
 
 
 import java.util.*;
-class arithmetic_composite {
+class Major_and_Minor_integers {
 
 	public static void main(String[] args) {
 		 double HigherNumber = 0;
