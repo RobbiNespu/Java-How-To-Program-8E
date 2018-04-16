@@ -1,8 +1,9 @@
 *
 * 	Filename :WhatTheImpress.java
 * 
-* 	Descrition :
-* 			(2.15)write an application that prompts the user to insert two integers, obtains the user from these numbers and prints their sum, difference, product, quotient.
+* 	Descrition : (2.19) What does the following code print?
+*	
+* 			
 *	
 *	Created: 16/04/18 14:54:22
 *
