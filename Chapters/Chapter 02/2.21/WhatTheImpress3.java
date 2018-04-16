@@ -1,4 +1,4 @@
-*
+/*
 * 	Filename :WhatTheImpress3.java
 * 
 * 	Descrition : (2.21) What does the following code print?
@@ -15,7 +15,7 @@
 *	 
 *	 
 * ============================================================================================	 
-*
+*/
 
 
 class whattheimpress3 {
