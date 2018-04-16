@@ -1,4 +1,4 @@
-*
+/*
 * 	Filename :WhatTheImpress.java
 * 
 * 	Descrition : (2.19) What does the following code print?
