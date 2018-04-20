@@ -18,7 +18,7 @@
 * ============================================================================================	 
 
 
-package x;
+
 import java.util.*;
 class diameterAndAreaOfTheCircle {
 
