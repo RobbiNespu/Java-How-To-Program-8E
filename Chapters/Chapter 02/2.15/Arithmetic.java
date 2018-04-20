@@ -57,8 +57,8 @@ public class arithmetic {
 			}
 		     }
 		}
-	     }		
+	}		
 
-	}
+}
 
 
