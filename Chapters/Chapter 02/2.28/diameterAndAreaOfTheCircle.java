@@ -18,24 +18,18 @@
 * ============================================================================================	 
 
 
+package x;
 import java.util.*;
 class diameterAndAreaOfTheCircle {
-
-    public static void main(String[] args) {
-        double diameter = 0;
-        double circuference = 0;
-        double area = 0;
-        Scanner input = new Scanner(System.in);
-        System.out.print("Enter a value for the radius:"); 
-
-        double radius = input.nextInt();
-
-        diameter = 2 * radius;
-        circuference =  2*Math.PI * radius;
-        area = Math.PI*(radius*radius);
-        System.out.printf("The diameter value is:" + diameter ); 
-        System.out.print("\nThe circuference value is:" + circuference); 
-        System.out.print("\nThe area value is:" + area ); 
+	 public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int r ;
+		System.out.print("Enter a value for the radius:"); 
+		
+		r = input.nextInt();
+		
+		System.out.printf("Diameter = %d\nCircuference = %.3f\nArea = %.3f\n",2 * r, 2 * Math.PI * r, Math.PI * r * r);
+		  
 	}
 
 }
