@@ -21,15 +21,18 @@
 package x;
 import java.util.*;
 class diameterAndAreaOfTheCircle {
-	 public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
-		int r ;
-		System.out.print("Enter a value for the radius:"); 
+
+     public static void main(String[] args) {
+	Scanner input = new Scanner(System.in);
+	int r ;
+	System.out.print("Enter a value for the radius:"); 
 		
-		r = input.nextInt();
+	r = input.nextInt();
 		
-		System.out.printf("Diameter = %d\nCircuference = %.3f\nArea = %.3f\n",2 * r, 2 * Math.PI * r, Math.PI * r * r);
+	System.out.printf("Diameter = %d\nCircuference = %.3f\nArea = %.3f\n",2 * r, 2 * Math.PI * r, Math.PI * r * r);
 		  
-	}
+     }
 
 }
+
+	
