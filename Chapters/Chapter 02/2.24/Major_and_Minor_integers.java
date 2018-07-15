@@ -42,9 +42,9 @@ class Major_and_Minor_integers {
 
 		if (num1 > num2 && num1 > num3 && num1 > num4 && num1> num5) {
 			higherNumber = num1;
-		} else if (num2 > num1 && num2 > num3 && num2 > num4 && num2 > num5) {
+		}else if (num2 > num1 && num2 > num3 && num2 > num4 && num2 > num5) {
 			higherNumber = num2;
-		} else if (num3 > num1 && num3 > num2 && num3 > num4 && num3 > num5) {
+		}else if (num3 > num1 && num3 > num2 && num3 > num4 && num3 > num5) {
 			higherNumber = num3;
 		}else if (num4 > num1 && num4 > num2 && num4 > num3 && num4 > num5) {
 			higherNumber = num4;
@@ -54,9 +54,9 @@ class Major_and_Minor_integers {
 
 		if (num1 < num2 && num1 < num3 && num1 < num4 && num1 < num5) {
 			smallerNumber = num1;
-		} else if (num2 < num1 && num2 < num3 && num2 < num4 && num2 < num5) {
+		}else if (num2 < num1 && num2 < num3 && num2 < num4 && num2 < num5) {
 			smallerNumber = num2;
-		} else if (num3 < num1 && num3 < num2 && num3 < num4 && num3 < num5) {
+		}else if (num3 < num1 && num3 < num2 && num3 < num4 && num3 < num5) {
 			smallerNumber = num3;
 		}else if (num4 < num1 && num4 < num2 && num4 < num3 && num4 < num5) {
 			smallerNumber = num4;
