@@ -65,6 +65,6 @@ class Major_and_Minor_integers {
 			}
 
 		System.out.println("Higher number : " + higherNumber);
-		System.out.println("Smaller Número : " + smallerNumber);
+		System.out.println("Smaller number : " + smallerNumber);
 	}
 }
