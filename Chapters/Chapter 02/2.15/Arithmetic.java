@@ -2,7 +2,7 @@
 * 	Filename :Arithmetic.java
 * 
 * 	Descrition :
-* 			(2.15)write an application that prompts the user to insert two integers, obtains the user from these numbers and prints their sum, difference, product, quotient.
+* 	(2.15)write an application that prompts the user to insert two integers, obtains the user from these numbers and prints their sum, difference, product, quotient.
 *	
 *	Created: 12/04/18 22:44:41
 *
