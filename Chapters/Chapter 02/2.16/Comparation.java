@@ -19,35 +19,34 @@
 
 import java.util.*;
 class Comparation {
-//(2.16) Write a program that compares two numbers and says which is the largest or which is the smallest or if the numbers are equals
+
 
 	public static void main(String[] args) {
 	
-			System.out.println("Enter the fist number:");
-			System.out.println("Enter the second number:");
+		System.out.println("Enter the fist number:");
+		System.out.println("Enter the second number:");
 			
-			Scanner in = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 			
-			int num1 = in.nextInt();
+		int num1 = in.nextInt();
 			
-			int num2 = in.nextInt();
+		int num2 = in.nextInt();
 		
 			
-			if(num1>num2) {
-				System.out.println("the first number is greater than the second number");
+		if(num1>num2) {
+			System.out.println("the first number is greater than the second number");
+			       }
 				
-			}	else { 
-						if(num1==num2) {
-							  System.out.println("the numbers are the same");
-							
-			
-				
-						 }else {
-								   if(num1<num2) {
-		        		                 System.out.println("the first number is smaller than the second number");
-		        	        	    }
-					           }		
+		else{ 
+		     if(num1==num2) {
+		             System.out.println("the numbers are the same");
+				       }
+		else {
+			if(num1<num2) {
+		        	System.out.println("the first number is smaller than the second number");
+		        	      }
+		      }		
 
-					  }
+			}
 	 }
 }
