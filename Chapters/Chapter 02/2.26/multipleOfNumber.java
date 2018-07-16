@@ -18,6 +18,7 @@
 */
 
 
+
 import java.util.*;
 class multipleOfNumber {
 
