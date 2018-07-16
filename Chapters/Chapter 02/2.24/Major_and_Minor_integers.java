@@ -20,6 +20,7 @@
 */
 
 
+
 import java.util.*;
 class Major_and_Minor_integers {
 
