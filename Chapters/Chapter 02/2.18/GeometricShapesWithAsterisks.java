@@ -16,6 +16,7 @@
 */
  
 
+
 class GeometricShapesWithAsterisksJava {
 
 	  public static void main(String[] args) {
