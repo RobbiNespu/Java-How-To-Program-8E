@@ -32,5 +32,4 @@ class ladsBoard {
         System.out.println("* * * * * * * *");
 
 	  }
-
 }
