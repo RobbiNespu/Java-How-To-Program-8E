@@ -42,6 +42,7 @@ public class separating_the_digits {
 	        Scanner in = new Scanner(System.in);
 	    	int number = in.nextInt();
 			
+			
 	    	
 	   	// I am using recursion.
 	    	// I'll use an example to illustrate how the code works(12345).
