@@ -34,8 +34,7 @@ class output_object {
 	  System.out.print("4\n");	  
 		
 	     
-          System.out.printf("1 2 3 4" );
-		
+          System.out.printf("1 2 3 4" );	
 	
      }
 
