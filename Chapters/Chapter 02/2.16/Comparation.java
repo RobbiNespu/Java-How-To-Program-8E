@@ -1,12 +1,13 @@
 /*
 * 	Filename :Comparation.java
 * 
-* 	Descrition :
+* 	
 *
 *	
 *	Created: 12/04/18 22:51:01
 *
 *	Revision:none
+*       Descrition:
 *	(2.16) write a program that compares two numbers and says which is the largest or which is the smallest or if the numbers are
 *	Author:Hianuy Esperidião - hianuy2@gmail.com
 *	Version 1.0:
