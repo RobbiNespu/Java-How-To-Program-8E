@@ -2,9 +2,8 @@
  	Filename : output_object.java 
  
  	Descrition :
- 			(2.14)Write an application that displays numbers from 1 to 4 on the same line, with each pair of adjacent numbers separated by a space.
-	  		Write the program using the following techniques.
-	
+ 	(2.14)Write an application that displays numbers from 1 to 4 on the same line, with each pair of adjacent numbers separated by a space.
+	  
 	Created: 12/04/18 21:20:42
 
 	Revision:none
