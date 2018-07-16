@@ -41,6 +41,7 @@ class Major_and_Minor_integers {
 		double num5 = in.nextInt();
 
 
+		
 		if (num1 > num2 && num1 > num3 && num1 > num4 && num1> num5) {
 			higherNumber = num1;
 		}else if (num2 > num1 && num2 > num3 && num2 > num4 && num2 > num5) {
