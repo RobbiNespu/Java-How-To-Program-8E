@@ -27,6 +27,7 @@ public class arithmetic {
 	      Scanner in = new Scanner(System.in);
 
 	      
+	      
 	      System.out.println("Enter 1 if you want to make a sum:");
 	      System.out.println("Enter 2 if you want to make a  subtraction:");
 	      System.out.println("Enter 3 if you want to make a multiplication:");
