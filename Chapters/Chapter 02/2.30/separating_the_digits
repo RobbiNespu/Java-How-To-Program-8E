@@ -31,7 +31,7 @@ public class separating_the_digits {
 	        int digit4=0;//fourth digit of number
 	        int digit5=0; //fifth digit of number
 	      
-	        // I used this to store each step of number division because I need this to use recursion
+	     // I used this to store each step of number division because I need this to use recursion
 
 	        int result_division1=0; 
 	        int result_division2=0;
@@ -40,13 +40,10 @@ public class separating_the_digits {
 	        int result_division5=0;
 	        System.out.println("Enter the number of up to 5 digits for it to be separated:\n");
 	        Scanner in = new Scanner(System.in);
-	    	  int number = in.nextInt();
+	    	int number = in.nextInt();
 			
 	    	
-	    	
-	    	
-	         
-	    	// I am using recursion.
+	   	// I am using recursion.
 	    	// I'll use an example to illustrate how the code works(12345).
 
 	         result_division1=number/10; // 12345  .. 12345/10 = 1234
