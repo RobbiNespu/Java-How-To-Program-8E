@@ -15,10 +15,10 @@
 *	 
 * ============================================================================================	 
 */
-package BmiCalculator;
+
 
 import java.util.Scanner;
-public class Bmi_calculator {
+public class BmiCalculator {
 
    
     public static void main(String[] args) {
