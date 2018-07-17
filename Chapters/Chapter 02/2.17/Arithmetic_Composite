@@ -1,19 +1,19 @@
-/*
-* 	Filename Arithmetic_Composite
-* 
-* 	Descrition :
-* 	(2.17)Write a program that receives 3 numbers make the sum, the product and the media and say which is the largest number
-*	Created: 12/04/18 23:04:32
-*
-*	Revision:none
-*	
-*	Author:Hianuy Esperidião - hianuy2@gmail.com
-*	Version 1.0:
-*	
-*	 
-*	 
-* ============================================================================================	 
-*/
+//
+//* 	Filename Arithmetic_Composite
+//* 
+//* 	Descrition :
+//* 	(2.17)Write a program that receives 3 numbers make the sum, the product and the media and say which is the largest number
+//*	Created: 12/04/18 23:04:32
+//*
+//*	Revision:none
+//*	
+//*	Author:Hianuy Esperidião - hianuy2@gmail.com
+//*	Version 1.0:
+//*	
+//*	 
+//*	 
+//* ============================================================================================	 
+//
 
 import java.util.Scanner;
 
