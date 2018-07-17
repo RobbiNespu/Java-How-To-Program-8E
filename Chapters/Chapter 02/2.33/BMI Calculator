@@ -15,6 +15,9 @@
 *	 
 * ============================================================================================	 
 */
+package bmi_calculator;
+
+import java.util.Scanner;
 public class Bmi_calculator {
 
    
