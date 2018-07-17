@@ -16,19 +16,16 @@
 *	 
 * ============================================================================================	 
 */
-ackage bmi_calculator;
+
 
 import java.util.Scanner;
 
-/**
- *
- * @author hianuy
- */
+
 public class Bmi_calculator {
 
    
     public static void main(String[] args) {
-     Scanner input = new Scanner(System.in);
+    Scanner input = new Scanner(System.in);
     
     float weight,height,imc;
     System.out.print("***************************************-BMI Calculator-*********************************\n");
