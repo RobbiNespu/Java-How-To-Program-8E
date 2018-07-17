@@ -1,7 +1,7 @@
 /*
-* 	Filename : Bmi_calculator.java
+* 	Filename : Bmi.java
 * 
-* 	Descrition : (2.33)  Write a program that calculates the BMI
+* 	Descrition : (2.34)  Write a program that calculates the BMI
 
 * 			
 *	
@@ -21,7 +21,7 @@
 import java.util.Scanner;
 
 
-public class Bmi_calculator {
+public class bmi_calculator {
 
    
     public static void main(String[] args) {
