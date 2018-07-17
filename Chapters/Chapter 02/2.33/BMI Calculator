@@ -17,7 +17,8 @@
 */
 public class Bmi_calculator {
 
-public static void main (String [] args) {
+   
+    public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     
     float weight,height,imc;
@@ -36,3 +37,8 @@ public static void main (String [] args) {
     
     }
 }
+
+        
+        
+        
+        
