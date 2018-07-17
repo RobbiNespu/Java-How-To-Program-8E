@@ -1,5 +1,5 @@
 //
-//* 	Filename Arithmetic_Composite
+//* 	Filename Arithmetic_Composite.java
 //* 
 //* 	Descrition :
 //* 	(2.17)Write a program that receives 3 numbers make the sum, the product and the media and say which is the largest number
