@@ -1,26 +1,24 @@
 /*
-* 	Filename :Bmi_calculator.java
-* 
-* 	Descrition : (2.33) : Write a program that receives weight at height and print the BMI
-* 			
-*	
-*	Created: 17/07/18 16:39:20
-*
-*	Revision:none
-*	
-*	Author:Hianuy Esperidião - hianuy2@gmail.com
-*	Version 1.0:
-*	
-*	 
-*	 
-* ============================================================================================	 
-*/
+ * 	Filename :Bmi_calculator.java
+ * 
+ * 	Descrition : (2.33) : Write a program that receives weight at height and print the BMI
+ * 			
+ *	
+ *	Created: 17/07/18 16:39:20
+ *
+ *	Revision:none
+ *	
+ *	Author:Hianuy Esperidião - hianuy2@gmail.com
+ *	Version 1.0:
+ *	
+ *	 
+ *	 
+ * ============================================================================================	 
+ */
 
 
 import java.util.Scanner;
 public class BmiCalculator {
-
-   
     public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     
