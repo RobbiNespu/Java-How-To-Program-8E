@@ -34,8 +34,8 @@ class Arithmetic_Composite {
           double average = (num1 + num2 + num3)/ 3;
           double product = num1 * num2 * num3;
           System.out.println(" the sum is :" + sum);
-          System.out.println(" a media eh:" + average);
-          System.out.println(" a produto eh:" + product);
+          System.out.println(" the average is:" + average);
+          System.out.println(" the product is:" + product);
           if(num1>num2 && num1>num3)
                   System.out.println("The number 1 is greater than number 2 and 3");
 
