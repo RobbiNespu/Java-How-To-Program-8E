@@ -23,17 +23,17 @@ import java.util.*;
 class multipleOfNumber {
 
     public static void main(String[] args) {
-      Scanner input = new Scanner(System.in);
-      System.out.println("Enter the first number:");
-      System.out.println("Enter the second number:");
+          Scanner input = new Scanner(System.in);
+          System.out.println("Enter the first number:");
+          System.out.println("Enter the second number:");
 
-      double num1 = input.nextInt();
-      double num2 = input.nextInt();
+          double num1 = input.nextInt();
+          double num2 = input.nextInt();
 
-      if(num1 % num2 == 0)
-        System.out.println("The first number is multiple of the second");
-      else
-        System.out.println("The first number is not multiple of the second");
+          if(num1 % num2 == 0)
+            System.out.println("The first number is multiple of the second");
+          else
+            System.out.println("The first number is not multiple of the second");
     }
 
 }
