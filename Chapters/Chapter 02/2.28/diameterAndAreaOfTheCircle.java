@@ -30,7 +30,7 @@ class diameterAndAreaOfTheCircle {
 		
 	r = input.nextInt();
 		
-	System.out.printf("Diameter = %d\nCircuference = %.3f\nArea = %.3f\n",2 * r, 2 * Math.PI * r, Math.PI * r * r);
+	System.out.printf("Diameter = %d\nLengthCircuference = %.3f\nArea = %.3f\n",2 * r, 2 * Math.PI * r, Math.PI * r * r);
 		  
      }
 
