@@ -21,6 +21,7 @@ public class  Negative_and_positive_and_zero{
         Scanner input = new Scanner(System.in);
         double n1,n2,n3,n4,n5;
   
+        
         System.out.printf("Enter the first number:\n");
         n1 = input.nextDouble();
         if(n1>0){
