@@ -96,11 +96,6 @@ public class  Negative_and_positive_and_zero{
             if(n5==0){
                 System.out.printf("the fifth number is zero\n");
                       }
-
-
-
-
-    
-  
+     
     }
 }
