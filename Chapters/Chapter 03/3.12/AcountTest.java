@@ -17,7 +17,7 @@
 * ============================================================================================	 
 */
 
-public class Acount {
+public class AcountTest {
     
     public static void main(String[] args) {
     
