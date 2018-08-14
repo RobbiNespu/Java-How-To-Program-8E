@@ -23,7 +23,7 @@ public class GradeBook {
     private String courseName;
     private String nameInstructor;
     
-    public  GradeBookTest(String name, String instructor)
+    public  GradeBook(String name, String instructor)
     {
     courseName = name;
     nameInstructor = instructor;
