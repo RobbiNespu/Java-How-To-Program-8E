@@ -1,0 +1,77 @@
+/*
+* 	Filename :  InvoiceTest.java
+* 
+* Descrition : (3.13) create a class called invoice and it should include 4 parts of the information as instance variables 
+* the number (string type), the description (string) the quantity purchased of an item (type int) price per item (double). 
+* The class must initialize the instance variables and provide a get and set method for each variable. 
+* End also a getInvoiceAmount method (multiplying the quantity by the price of the item). 
+* And if quantity and price per item are not positive set to 0
+*
+*	
+* 			
+*	
+*	Created: 15/08/18 23:05:02
+*
+*	Revision:none
+*	
+*	Author:Hianuy Esperidião - hianuy2@gmail.com
+*	Version 1.0:
+*	
+*	 
+*	 
+* ============================================================================================	 
+*/
+public class InvoiceTest {
+
+    public static void main(String[] args) {
+          
+           String item;
+           String description;
+           int quantity;
+           double price;
+           String choice;
+
+           
+           
+          Scanner input = new Scanner(System.in);
+          Invoice hammer = new Invoice("paper","123",4.2,33);
+          System.out.printf("the values are this way with the register the new object \ndescription:%s\nNumber:%s\nPrice per item:%.1f\nSold amount:%d ",hammer.getDescription(),hammer.getNumber()
+           ,hammer.getpricePerItem(),hammer.getQuantityPurchased(),hammer.getInvoiceAmount());
+
+
+            System.out.printf("\n\ndo you want to change something in the object?: Y/N?\n");
+            choice = input.nextLine();
+            if(choice.equals("y")|| choice.equals("Y")){
+
+
+            System.out.print("Enter Description of Item Purchased: ");
+            description = input.nextLine();
+            hammer.setDescription(description);
+
+            System.out.print ("Enter Number: ");
+            item = input.nextLine();
+            hammer.setNumber(item);
+
+              System.out.print ("Enter The Price Per Item: ");
+            price = input.nextDouble();
+            hammer.setpricePerItem(price);
+
+            System.out.print ("Enter The Quantity of Item Purchased: ");
+            quantity = input.nextInt();
+             hammer.setQuantityPurchased(quantity);
+           System.out.printf("the values are this way with the register the new object \ndescription:%s\nNumber:%s\nPrice per item:%.1f\nSold amount:%d ",hammer.getDescription(),hammer.getNumber()
+           ,hammer.getpricePerItem(),hammer.getQuantityPurchased(),hammer.getInvoiceAmount());
+
+
+             System.out.printf ("The Total Amount for all items purchased = $%.2f\n", hammer.getInvoiceAmount());
+
+            }
+            else{
+
+          System.out.printf("Program completed");      
+
+      }
+    
+    }
+}
+
