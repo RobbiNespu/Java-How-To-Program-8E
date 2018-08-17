@@ -56,8 +56,8 @@ public class EmployeeTest {
           System.out.println("Wants to give employees a 10% increase? Y/N");
           choice = input.nextLine();
           if(choice.equals ("Y") ||choice.equals ("y")){
-           System.out.printf("With an increase in salary, the %s will receive this annually:%.0f\n",empregado1.getName(),empregado1.setSalaryIncrease());
-           System.out.printf("With an increase in salary,the %s will receive this annually:%.0f ",empregado2.getName(),empregado2.setSalaryIncrease());
+          System.out.printf("With an increase in salary, the %s will receive this annually:%.0f\n",empregado1.getName(),empregado1.setSalaryIncrease());
+          System.out.printf("With an increase in salary,the %s will receive this annually:%.0f ",empregado2.getName(),empregado2.setSalaryIncrease());
 
           }
           else
